@@ -54,6 +54,12 @@ This folder contains a curated collection of real-world data integration and tra
 
 ## 🗂 Folder Structure
 
+Pipelines/
+├── 1st pipeline (blob2asql) using Dataflow.pdf
+├── 2nd pipeline (blob2asql) using powerquery .pdf
+├── 3rd pipeline (blob2asql) using dataflow and powerquery.pdf
+├── ...
+├── 12th pipeline IOT Hub to Power BI using azure streaming analytics.pdf
 ---
 
 ## ✨ Contribution & Usage
